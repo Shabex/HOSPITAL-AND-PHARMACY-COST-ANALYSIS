@@ -6,6 +6,8 @@ This project involves a comprehensive analysis of hospital and pharmacy costs da
 The goal is to answer valuable questions and provide insights to various business questions based on the dataset. 
 The following README file provides a detailed account of the project's objectives, business problems and insights.
 
+[To access the interactive dashboard](<iframe title="Hospital_Pharmacy_PowerBI_Assignment" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiN2ExYWIwOGQtMTQ2Ny00ODRhLWI1OWQtZjhhMTgwMzFjZTA3IiwidCI6IjAxMzljODQ4LWY2N2EtNDNjNS1hNzI2LTZiMTJhOTQzMmVlMyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
 # Dataset
 The dataset for this project has been provided by the client, and it consists of a single Ms Excel file with 3 sheets, each sheet containing tables
 The tables are the 
