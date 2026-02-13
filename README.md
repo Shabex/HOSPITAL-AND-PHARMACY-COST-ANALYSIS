@@ -35,7 +35,13 @@ The tables are the
 - We can also see from our analysis that some diagnoses, such as Flu, are registering longer hospital stays but very low pharmacy spending, which can be due to some patients using medicine from outside pharmacies or being prescribed drugs not captured in the pharmacy billing system, leading to bed blockage to high value cases  and poor resource utilisation. The hospital management should consider introducing early discharge protocols, strengthen outpatient follow-up and consider day-care for mild flu cases.
 
 # Tech Stack
-The dashboardwas build usinmg the following tools and technologies
+The dashboardwas build usinmg the following tools and technologies:
+- Power BI Desktop - A data visualisation platform for creating reports.
+- Power query - Data transformation and cleaning for preparing the data
+- DAX (Data Analysis Expression) - Used for calculated measures and columns and dimdate table creation.
+- Data Modelling - Established realtionship between the tables to enable cross-filtering and aggregation.
+
+#Author - Shaban Ibrahim
 
 
 
