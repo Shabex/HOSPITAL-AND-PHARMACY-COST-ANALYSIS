@@ -1,1 +1,3 @@
+![Screenshot](https://github.com/Shabex/HOSPITAL-AND-PHARMACY-COST-ANALYSIS/blob/main/Screenshot%202026-02-12%20142753.png)
+
 # HOSPITAL-AND-PHARMACY-COST-ANALYSIS
