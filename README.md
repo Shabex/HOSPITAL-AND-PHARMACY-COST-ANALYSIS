@@ -41,7 +41,7 @@ The dashboardwas build usinmg the following tools and technologies:
 - DAX (Data Analysis Expression) - Used for calculated measures and columns and dimdate table creation.
 - Data Modelling - Established realtionship between the tables to enable cross-filtering and aggregation.
 
-#Author - Shaban Ibrahim
+# Author - Shaban Ibrahim
 
 
 
